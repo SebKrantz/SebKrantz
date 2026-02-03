@@ -22,7 +22,7 @@ Furthermore, I facilitate access to macroeconomic/development and geospatial dat
 | [SAMADB](https://github.com/Stellenbosch-Econometrics/SAMADB-Issues) | South Africa Macroeconomic Database – 10k Series & SARB, STATSSA, [EconData](https://econdata.co.za/); Weekly Updates; R/Python/Julia APIs; Hosted by [Codera](https://codera.co.za/) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/samadb)](https://cran.r-project.org/package=samadb) | ![PyPI - Total Downloads](https://img.shields.io/pepy/dt/samadb) |
 | [UGATSDB](https://CRAN.R-project.org/package=ugatsdb) | Uganda Time Series Database – 10k Series & BoU, UBOS, MoFPED, WB, IMF, ILO; Monthly Updates; Maintained by [MEPD @ MoFPED](https://mepd.finance.go.ug/) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/ugatsdb)](https://cran.r-project.org/package=ugatsdb) | - |
 
-Lastly, I have released the following unmaintained apps and teaching materials: 
+Lastly, I have released the following (unmaintained) apps and teaching materials: 
 
 | Name | Short Description | Stars |
 |--------|-------------|--------:|
