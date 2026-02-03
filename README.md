@@ -11,7 +11,7 @@ I'm a quantitative economist and software engineer building high-performance (C/
 | [**flownet**](https://github.com/SebKrantz/flownet) | Transport Modeling in R | Author | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/flownet?style=flat-square)](https://github.com/SebKrantz/flownet) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/flownet)](https://cran.r-project.org/package=flownet) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-flownet?style=flat-square)](https://anaconda.org/conda-forge/r-flownet) |
 | [**OTN.jl**](https://optimaltransportnetworks.github.io/OptimalTransportNetworks.jl/dev/) | Optimal Transport Networks in Julia | Author | [![GitHub stars](https://img.shields.io/github/stars/OptimalTransportNetworks/OptimalTransportNetworks.jl?style=flat-square)](https://github.com/OptimalTransportNetworks/OptimalTransportNetworks.jl) | - | - |
 
-You can read more about these projects on my [website](https://sebastiankrantz.com/software.html) and [software blog](https://sebkrantz.github.io/blog/). I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https://github.com/ycroissant/plm), and [decompr](https://github.com/bquast/decompr). 
+I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https://github.com/ycroissant/plm), and [decompr](https://github.com/bquast/decompr). You can read more about these projects on my [website](https://sebastiankrantz.com/software.html) and [software blog](https://sebkrantz.github.io/blog/).
 
 I also facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
 
