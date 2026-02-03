@@ -1,6 +1,6 @@
 I'm a quantitative economist and software engineer building high-performance (C/C++-based) tools for general purpose statistical computing, econometric analysis, time series, geospatial analysis and transport networks/modeling. Key projects I maintain are:
 
-| Package | Short Description | Role  | Stars | CRAN Downloads | Conda Downloads |
+| Package | Short Description | Role  | Stars | CRAN | Conda |
 |--------|-------------|----|--------:|-----------------:|------------------------:|
 | [**collapse**](https://fastverse.org/collapse/) | Advanced and Fast Data Transformation in R | Author | [![GitHub stars](https://img.shields.io/github/stars/fastverse/collapse?style=flat-square)](https://github.com/fastverse/collapse) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/collapse)](https://cran.r-project.org/package=collapse) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-collapse?style=flat-square)](https://anaconda.org/conda-forge/r-collapse) |
 | [**fastverse**](https://fastverse.org/fastverse/) | High-Performance Statistical Computing in R | Author | [![GitHub stars](https://img.shields.io/github/stars/fastverse/fastverse?style=flat-square)](https://github.com/fastverse/fastverse) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/fastverse)](https://cran.r-project.org/package=fastverse) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-fastverse?style=flat-square)](https://anaconda.org/conda-forge/r-fastverse) |
