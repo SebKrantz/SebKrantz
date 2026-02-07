@@ -16,7 +16,7 @@ I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https:
 Furthermore, I facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
 
 | Database | Short Description | CRAN | PyPI |
-|--------|-------------|----|--------:|
+|--------|-------------|-------|--------:|
 | [Kiel Institute Africa Monitor](https://africamonitor.kielinstitut.de/) | Pattform and Macroeconomic Database – 1000 Series with high Africa coverage, Global in Scope, Monthly Updates, R and Python APIs | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/africamonitor)](https://cran.r-project.org/package=africamonitor) | ![PyPI - Total Downloads](https://img.shields.io/pepy/dt/africamonitor) |
 | [Africa Infrastructure Database](https://sebastiankrantz.com/data-products.html#africa-infrastructure-database) | Infrastructure Assets, Businesses, and Economic Geography in Africa – 15.1M POIs, 4.4M km Networks, 54 Categories, Raw or 9.7km DGGrid | - | - |
 | [SAMADB](https://github.com/Stellenbosch-Econometrics/SAMADB-Issues) | South Africa Macroeconomic Database – 10k Series & SARB, STATSSA, [EconData](https://econdata.co.za/); Weekly Updates; R/Python/Julia APIs; Hosted by [Codera](https://codera.co.za/) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/samadb)](https://cran.r-project.org/package=samadb) | ![PyPI - Total Downloads](https://img.shields.io/pepy/dt/samadb) |
