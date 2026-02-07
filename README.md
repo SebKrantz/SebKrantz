@@ -1,7 +1,7 @@
 I'm a quantitative economist and software engineer building high-performance (C/C++-based) tools for general purpose statistical computing, econometric analysis, time series, geospatial analysis, and transport networks/modeling. Key packages I maintain are:
 
 | Package | Short Description | Role  | Stars | CRAN | Conda |
-|--------|-------------|----|--------:|-----------------:|------------------------:|
+|--------|-------------|----|--------|-----------------|------------------------|
 | [**collapse**](https://fastverse.org/collapse/) | Advanced and Fast Data Transformation in R | Author | [![GitHub stars](https://img.shields.io/github/stars/fastverse/collapse?style=flat-square)](https://github.com/fastverse/collapse) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/collapse)](https://cran.r-project.org/package=collapse) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-collapse?style=flat-square)](https://anaconda.org/conda-forge/r-collapse) |
 | [**fastverse**](https://fastverse.org/fastverse/) | High-Performance Statistical Computing in R | Author | [![GitHub stars](https://img.shields.io/github/stars/fastverse/fastverse?style=flat-square)](https://github.com/fastverse/fastverse) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/fastverse)](https://cran.r-project.org/package=fastverse) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-fastverse?style=flat-square)](https://anaconda.org/conda-forge/r-fastverse) |
 | [**kit**](https://fastverse.org/kit/) | Data Manipulation Functions in C (for R) | Contrib | [![GitHub stars](https://img.shields.io/github/stars/fastverse/kit?style=flat-square)](https://github.com/fastverse/kit) | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/kit)](https://cran.r-project.org/package=kit) | [![Conda downloads](https://img.shields.io/conda/dn/conda-forge/r-kit?style=flat-square)](https://anaconda.org/conda-forge/r-kit) |
@@ -25,7 +25,7 @@ Furthermore, I facilitate access to macroeconomic/development and geospatial dat
 Lastly, I have released the following (unmaintained) apps and teaching materials: 
 
 | Name | Short Description | Stars |
-|--------|-------------|--------:|
+|--------|-------------|--------|
 | [**Data Science Programme**](https://github.com/SebKrantz/Data-Science-Programme) | R Based Data Science Training for Public Sector Officials | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/Data-Science-Programme?style=flat-square)](https://github.com/SebKrantz/Data-Science-Programme) |
 | [**Quantitative Spatial Economics**](https://github.com/SebKrantz/Quantitative-Spatial-Economics) | Replication of some Quantitative Spatial Economics Papers in Julia | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/Quantitative-Spatial-Economics?style=flat-square)](https://github.com/SebKrantz/Quantitative-Spatial-Economics) |
 | [**DSA in C**](https://github.com/SebKrantz/DSAinC) |  Data Structures and Algorithms in C (+ Amazing Lecture Notes) | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/DSAinC?style=flat-square)](https://github.com/SebKrantz/DSAinC) |
