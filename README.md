@@ -15,6 +15,9 @@ I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https:
 
 Furthermore, I facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
 
+<details>
+  <summary><b><a style="cursor: pointer;">Click here to expand </a></b> </summary>
+
 | Database | Short Description | CRAN | PyPI |
 |--------|-------------|-------|--------|
 | [Kiel Institute Africa Monitor](https://africamonitor.kielinstitut.de/) | Pattform and Macroeconomic Database – 1000 Series with high Africa coverage, Global in Scope, Monthly Updates, R and Python APIs | [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/africamonitor)](https://cran.r-project.org/package=africamonitor) | ![PyPI - Total Downloads](https://img.shields.io/pepy/dt/africamonitor) |
@@ -32,3 +35,5 @@ Lastly, I have released the following (unmaintained) apps and teaching materials
 | [**Academic Website**](https://github.com/SebKrantz/website) |  My Academic Website Template – Source of [sebastiankrantz.com](https://sebastiankrantz.com/) | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/website?style=flat-square)](https://github.com/SebKrantz/website) |
 | [**Shiny Data Portal**](https://github.com/SebKrantz/shiny-data-portal) | A Shiny Application to Host, Filter, Aggregate and Download Data | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/shiny-data-portal?style=flat-square)](https://github.com/SebKrantz/shiny-data-portal) |
 | [**Census Mapper**](https://github.com/SebKrantz/census-mapper) | A Shiny Application for Interactive Mapping of Census Data | [![GitHub stars](https://img.shields.io/github/stars/SebKrantz/census-mapper?style=flat-square)](https://github.com/SebKrantz/census-mapper) |
+
+</details>
