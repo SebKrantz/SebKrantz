@@ -13,10 +13,12 @@ I'm a quantitative economist and software engineer building high-performance (C/
 
 I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https://github.com/ycroissant/plm), and [decompr](https://github.com/bquast/decompr). You can read more about these projects on my [website](https://sebastiankrantz.com/software.html) and [software blog](https://sebkrantz.github.io/Rblog/).
 
-Furthermore, I facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
+
 
 <details>
-  <summary><b><a style="cursor: pointer;">Click here to expand </a></b> </summary>
+  <summary><b><a style="cursor: pointer;">Click here to expand for public databases, apps, and teaching materials </a></b> </summary>
+
+I also facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
 
 | Database | Short Description | CRAN | PyPI |
 |--------|-------------|-------|--------|
