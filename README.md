@@ -17,7 +17,7 @@ I also contributed to [fixest](https://github.com/lrberge/fixest/), [plm](https:
 
 <details>
   <summary><b><a style="cursor: pointer;">Click here to expand for public databases, apps, and teaching materials </a></b> </summary>
-
+<br>
 I also facilitate access to macroeconomic/development and geospatial data for Africa through several databases/APIs:
 
 | Database | Short Description | CRAN | PyPI |
