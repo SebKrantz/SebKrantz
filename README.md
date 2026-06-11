@@ -1,4 +1,4 @@
-I'm a quantitative economist and software engineer building high-performance (C/C++-based) tools for general purpose statistical computing, econometrics, GVCs, time series, geospatial analysis, and transport networks/modeling. Key packages I maintain are:
+I'm a quantitative economist and software engineer building high-performance (C/C++/Julia-based) tools for advanced statistical computing, econometrics, GVCs, time series, geospatial analysis, and transport networks/modeling. Key packages I maintain are:
 
 | Package | Short Description | Role  | Stars | CRAN | Conda |
 |--------|-------------|----|--------|-----------------|------------------------|
